@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">بنيان الهندسي</string>
+    <string name="app_subtitle">مسح الأراضي والتصميم وحساب التكاليف</string>
+    <string name="designer_name">المهندس طه الحدا</string>
+    <string name="designer_title">مهندس معماري ومدني • مصمم التطبيق</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_land_scan">مسح الأرض</string>
+    <string name="nav_designs">التصاميم</string>
+    <string name="nav_materials">المواد والتكلفة</string>
+    <string name="drawer_open_desc">فتح القائمة الجانبية</string>
+    <string name="ai_firebase_notice">ملاحظة: ميزات الذكاء الاصطناعي تعرض نتائج هندسية تجريبية، ويتطلب التحليل المباشر بالذكاء الاصطناعي تفعيل Firebase AI Logic.</string>
+</resources>
